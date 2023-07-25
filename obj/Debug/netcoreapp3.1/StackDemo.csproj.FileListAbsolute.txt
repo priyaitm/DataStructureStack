@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\bin\Debug\netcoreapp3.1\StackDemo.exe
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\bin\Debug\netcoreapp3.1\StackDemo.deps.json
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\bin\Debug\netcoreapp3.1\StackDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\bin\Debug\netcoreapp3.1\StackDemo.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\bin\Debug\netcoreapp3.1\StackDemo.dll
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\bin\Debug\netcoreapp3.1\StackDemo.pdb
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.dll
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.pdb
+C:\Users\DELL\source\repos\DataStructure11\DataStructure11\obj\Debug\netcoreapp3.1\StackDemo.genruntimeconfig.cache
